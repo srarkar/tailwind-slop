@@ -1,2 +1,2 @@
-# tailwind-slop
-Frontend Practice - Recipe Website
+# Tailwind Practice
+Recipe Website
